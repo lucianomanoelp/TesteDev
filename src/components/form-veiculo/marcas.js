@@ -1,0 +1,16 @@
+export default [
+  'FIAT',
+  'CHEVROLET',
+  'GM',
+  'VOLKSWAGEN',
+  'FORD',
+  'RENAULT',
+  'HYUNDAI',
+  'TOYOTA',
+  'HONDA',
+  'NISSAN',
+  'CITROEN',
+  'MITSUBISHI',
+  'PEUGEOT',
+  'SUZUKI',
+]
