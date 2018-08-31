@@ -24,7 +24,7 @@ Dentro do diretório do projeto entre no diretório ios e execute o arquivo Test
 
 Parecido com o passo anterior, com a diferença de ao invés de selecionar um simulador selecione seu iPhone conectado por USB ao mac.
 
-## Executando no simulador android
+### Executando no simulador android
 
 1. Execute o Android Studio. 
 2. Escolha a opção abrir um projeto existente.
@@ -32,7 +32,7 @@ Parecido com o passo anterior, com a diferença de ao invés de selecionar um si
 4. Execute a versão do simulador instalado.
 5. Clique em "Run".
 
-## Executando no dispositivo físico android
+### Executando no dispositivo físico android
 
 1. Conecte o dispositivo no computador e habilite a opção de desenvolvdor no android.
 2. Execute o Android Studio. 
