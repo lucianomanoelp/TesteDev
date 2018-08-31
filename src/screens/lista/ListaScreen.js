@@ -71,7 +71,7 @@ export default class ListaScreen extends React.Component {
                     onTentarNovamentePress={() => this.onFetchMore(fetchMore, data.buscaVeiculo, loading)}
                   /> 
                 )}
-                onEndReachedThreshold={ 0 }
+                onEndReachedThreshold={ 0.5 }
                 onEndReached={() => this.onFetchMore(fetchMore, data.buscaVeiculo, loading)}
               />              
             )
